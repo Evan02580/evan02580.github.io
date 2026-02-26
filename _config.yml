@@ -7,16 +7,15 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Yihong Pan"
+locale                   : "zh-CN"
+site_theme               : "default"
+title                    : "潘奕宏 | Yihong Pan"
 title_separator          : "-"
-name                     : &name "Yihong Pan"
-description              : &description "Yihong Pan's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://Evan02580.github.io.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Evan02580/Evan02580.github.io.github.io"
+name                     : &name "潘奕宏"
+description              : &description "南开大学统计与数据科学学院博士研究生，研究方向：LLM、知识图谱、Legal AI"
+url                      : https://Evan02580.github.io
+baseurl                  : ""
+repository               : "Evan02580/Evan02580.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,11 +23,11 @@ repository               : "Evan02580/Evan02580.github.io.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yihong Pan"
-  pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "China"
-  employer         : "Nankai University"
+  name             : "潘奕宏"
+  pronouns         : # he/him
+  bio              : "南开大学统计与数据科学学院博士研究生，研究方向：大语言模型、知识图谱、Legal AI、推荐系统"
+  location         : "中国天津"
+  employer         : "南开大学"
   uri              : # URL
   email            : "pyh20020508@gmail.com" 
 

@@ -1,152 +1,183 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "潘奕宏 (Yihong Pan)",
+    "email": "pyh20020508@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "",
+    "summary": "南开大学统计与数据科学学院博士研究生，研究方向：大语言模型、知识图谱、Legal AI、推荐系统",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "天津",
+      "countryCode": "中国",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "network": "GitHub",
+        "username": "Evan02580",
+        "url": "https://github.com/Evan02580"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://orcid.org/0009-0000-3735-4126"
       }
     ]
   },
-  "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "南开大学",
+      "area": "统计学",
+      "studyType": "博士研究生",
+      "startDate": "2026.09",
+      "endDate": "2030.07",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
+      "institution": "奥克兰大学",
+      "area": "数据科学",
+      "studyType": "硕士研究生",
+      "startDate": "2023.07",
+      "endDate": "2025.09",
+      "gpa": "null",
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "西南大学",
+      "area": "计算机科学与技术",
+      "studyType": "本科",
+      "startDate": "2020.09",
+      "endDate": "2024.07",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "work": [
+    {
+      "company": "北京三快在线科技有限公司（美团）",
+      "position": "实习生",
+      "startDate": "2025.10",
+      "endDate": "2026.02",
+      "summary": "基于美团 Nocode AI 开发平台开发部门日报系统、基于 LLM 的标注辅助工具、Markdown 翻译工具等，提升部门工作和管理效率；评测美团大模型在 Code & Math QA、Claude Code 开发及其他 Agent 下的性能。",
+      "highlights": [
+        "负责系统/工具的立项和开发",
+        "负责 SFT 数据的生成和评测"
+      ]
+    },
+    {
+      "company": "上海谐振半导体科技有限公司",
+      "position": "实习生",
+      "startDate": "2023.11",
+      "endDate": "2024.02",
+      "summary": "设计并实现基于 PyTorch 神经网络的器件输入与输出数据校准。针对不同半导体器件，实现用户输入在不同的环境条件下，均能进行数据修正并传输给器件。相较于原有方法能够更好地拟合校准过程中非线性段落，且在不同的环境条件（温度、通道数等）下进行校准。",
+      "highlights": [
+        "负责项目代码框架的搭建及实现",
+        "负责项目解释文件和专利申请文件的撰写"
+      ]
+    },
+    {
+      "company": "科大讯飞股份有限公司",
+      "position": "实习生",
+      "startDate": "2023.05",
+      "endDate": "2023.07",
+      "summary": "使用 Python 完成基于 OpenCV+CNN 的人工智能校园安防系统项目的开发，使用 QT5 完善可视化界面，实现人脸录入和识别。项目在校内试点，并获得初步成功。",
+      "highlights": [
+        "负责代码框架的搭建和核心代码（人脸信息录入和识别模块）的实现",
+        "牵头撰写项目汇报材料，向企业导师与学校评审汇报技术进展"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "编程语言",
+      "keywords": ["C/C++", "Python", "R", "Golang"]
+    },
+    {
+      "name": "深度学习框架",
+      "keywords": ["PyTorch", "Transformer", "BERT", "LLMs"]
+    },
+    {
+      "name": "研究方向",
+      "keywords": ["大语言模型", "知识图谱", "Legal AI", "推荐系统", "Fine-tuning"]
+    }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "**HUSK: A Hierarchically Structured Urban Knowledge Graph Dataset for Multi-Level Spatial Tasks**",
+      "publisher": "CIKM 2025",
+      "releaseDate": "2025",
+      "website": "https://github.com/77-qiqi-wang/HUSK",
+      "summary": "Qiqi Wang, Guanjin Wang, **Yihong Pan**, Zhipeng Lin, Huijia Li, Qian Liu, Kaiqi Zhao. Proceedings of the 34th ACM International Conference on Information and Knowledge Management."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "**CluRF: Combining Unsupervised Clustering with Explainable Ensemble Learning for Risk Prediction**",
+      "publisher": "PRICAI 2025",
+      "releaseDate": "2025",
+      "website": "https://github.com/Evan02580/HeartAttackPred",
+      "summary": "**Yihong Pan**, Bofan Wang, Zhipeng Lin, Yifan Zhou, Huazhe Cheng, Karuna Reddy, Gillian Dobbie and Mark Chen. PRICAI 2025: PACIFIC RIM INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE 2025."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "**REFINE: A Resource-Efficient LLM-based Approach for Next Top-K POI Recommendation**",
+      "publisher": "DASFAA 2026",
+      "releaseDate": "2026",
+      "website": "https://github.com/Evan02580/REFINE",
+      "summary": "**Yihong Pan**, Qiqi Wang, Ziyi Jiang, Weizhe Shi, Zhipeng Lin, Huijia Li, Kaiqi Zhao. DASFAA 2026: The 31st International Conference on Database Systems for Advanced Applications."
     }
   ],
-  "presentations": [
+  "awards": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "title": "美国大学生数学建模竞赛 二等奖",
+      "date": "2023",
+      "issuer": "COMAP"
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "title": "全国大学生数学建模竞赛 省二等奖",
+      "date": "2021",
+      "issuer": "中国工业与应用数学学会"
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
+      "title": "全国大学生数学竞赛 省二等奖",
+      "date": "2023",
+      "issuer": "中国数学会"
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "title": "奥克兰大学高等成就奖学金",
+      "date": "2023",
+      "issuer": "奥克兰大学"
+    },
+    {
+      "title": "奥克兰大学一等荣誉毕业生",
+      "date": "2025",
+      "issuer": "奥克兰大学"
+    },
+    {
+      "title": "西南大学一等奖学金",
+      "date": "2021",
+      "issuer": "西南大学"
+    },
+    {
+      "title": "西南大学优秀毕业生",
+      "date": "2024",
+      "issuer": "西南大学"
     }
   ],
-  "teaching": [
+  "languages": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "language": "中文",
+      "fluency": "母语"
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "language": "英语",
+      "fluency": "流利"
     }
   ],
-  "portfolio": [
+  "interests": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "研究方向",
+      "keywords": ["大语言模型", "知识图谱", "Legal AI", "推荐系统", "机器学习"]
     }
-  ]
+  ],
+  "references": []
 }

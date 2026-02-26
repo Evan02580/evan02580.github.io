@@ -21,3 +21,7 @@ package-lock.json
 
 # Ignore files created by MacOS
 .DS_Store
+cv/个人简历(2025.09).docx
+cv/个人简历(2026.01).docx
+cv/个人简历文本.txt
+.gitignore
