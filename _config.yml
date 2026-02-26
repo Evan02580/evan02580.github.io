@@ -13,7 +13,7 @@ title                    : "潘奕宏 | Yihong Pan"
 title_separator          : "-"
 name                     : &name "潘奕宏"
 description              : &description "南开大学统计与数据科学学院博士研究生，研究方向：LLM、知识图谱、Legal AI"
-url                      : https://Evan02580.github.io
+url                      : https://evan02580.github.io
 baseurl                  : ""
 repository               : "Evan02580/Evan02580.github.io"
 
@@ -312,6 +312,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - github-pages
 
 # Mimic GitHub Pages with --safe
 whitelist:
@@ -321,6 +322,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - github-pages
 
 
 # Archives
