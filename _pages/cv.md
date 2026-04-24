@@ -38,6 +38,14 @@ redirect_from:
   Qiqi Wang, Guanjin Wang, **Yihong Pan**, Zhipeng Lin, Huijia Li, Qian Liu, Kaiqi Zhao.<br>
   The 34th ACM International Conference on Information and Knowledge Management (CIKM' 2025). [GitHub](https://github.com/77-qiqi-wang/HUSK)
 
+- **LegalChainReasoner: Grounding Criminal Judicial Opinion Generation via Structured Legal Chains**<br>
+  Weizhe Shi, Qiqi Wang, **Yihong Pan**, Qian Liu, Kaiqi Zhao.<br>
+  The 64th Annual Meeting of the Association for Computational Linguistics (ACL'26). [GitHub](https://github.com/Statistical-NLP-Lab/LegalChainReasoner)
+
+- **DefGen-Bench: A Benchmark for Chinese Criminal Defence Opinion Generation in LegalAI**<br>
+  Senbo Zhang, Qiqi Wang, Fanghao Lou, Guanyu Chen, **Yihong Pan**, Huijia Li, Qian Liu.<br>
+  The 64th Annual Meeting of the Association for Computational Linguistics (ACL'26). [GitHub](https://github.com/Statistical-NLP-Lab/DefGen-Bench)
+  
 - **CluRF: Combining Unsupervised Clustering with Explainable Ensemble Learning for Risk Prediction**<br>
   **Yihong Pan**, Bofan Wang, Zhipeng Lin, Yifan Zhou, Huazhe Cheng, Karuna Reddy, Gillian Dobbie and Mark Chen.<br>
   The 22st Pacific Rim International Conference on Artificial Intelligence (PRICAI' 2025). [GitHub](https://github.com/Evan02580/HeartAttackPred)
